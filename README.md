@@ -40,7 +40,8 @@ VK Задача 1.
 Метрики качества оценивались с помощью:  
 - Accuracy - 0.7885885726069863
 - Отчета classification_report (precision 0 - 0.80/1 - 0.77, recall 0.79, f1-score 0.79)
-- Важность признаков ![image](https://github.com/user-attachments/assets/dae4e1fb-dc5d-494f-8143-9d63b5a70f76)
+- Важность признаков
+  ![image](https://github.com/user-attachments/assets/dae4e1fb-dc5d-494f-8143-9d63b5a70f76)
 
 
 

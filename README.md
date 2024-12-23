@@ -13,7 +13,7 @@ VK Задача 1.
 
 Файлы в репозитории:
 - VK_predict.ipynb - ноутбук с выполненным заданием
-- test_users_with_target.csv - предзказания для каждого пользователя из test_users.csv
+- test_users_with_target.csv - предсказания для каждого пользователя из test_users.csv
 - requirements.txt - необходимые библиотеки
 
 ## Подготовка данных

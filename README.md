@@ -39,7 +39,7 @@ VK Задача 1.
 Использовалась модель CatBoostClassifier, гиперпараметры которой были оптимизированы с помощью Optuna.
 Метрики качества оценивались с помощью:  
 - Accuracy - 0.7885885726069863
-- Отчета classification_report (precision 0 - 0.80/1 - 0.77, recall 0.79, f1-score 0.79)
+- Отчета classification_report (precision 0 - 0.80/1 - 0.77, recall 0.79, f1-score 0 - 0.79/1 - 0.78)
 
   
 
